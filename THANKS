@@ -1,0 +1,5 @@
+* pekdon <pekdon at pekdon dot net>
+	compilation with solaris openwindows fix.
+
+* A. Pagaltzis <pagaltzis at gmx dot de>
+	Opening each icon in a separate window implementation.
